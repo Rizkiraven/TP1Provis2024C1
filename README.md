@@ -16,8 +16,12 @@ Player memerlukan item persyaratan untuk menjalankan misi yang diberikan oleh NP
 
 Pada program ini pun mengimplementasikan async dan await pada method - method yang ada. Seperti menggunakan delay untuk menampilkan outputnya.
 
-# ALur Program
+# Alur Program
 1. Program dimulai dan langsung inisialisasi Player, NPC, Enemy, dan Item.
 2. Menampilkan list Player, NPC, Enemy, dan Item yang ada.
-3. Menampilkan petualangan Player dengan menerima dan menjalankan misi dari NPC
-4. Menampilkan status dan item yang dimiliki oleh Player setelah menyelesaikan misi
+3. Menampilkan petualangan Player dengan menerima dan menjalankan misi dari NPC.
+4. Menampilkan status dan item yang dimiliki oleh Player setelah menyelesaikan misi.
+5. Akan ada delay beberapa detik saat menampilkan output agar bisa melihat proses nya lebih detail.
+
+# Dokumentasi
+https://github.com/Rizkiraven/TP1Provis2024C1/assets/107761120/95ee713b-ef7c-4e08-8710-50769b4df959
